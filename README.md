@@ -1,1 +1,1 @@
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=darkfriend77&count_private=true&show_icons=true&theme=algolia)
+![GitHub stats](./profile/stats.svg)
