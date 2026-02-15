@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Cedric Decoster's GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 11, Total Commits  (last year) : 716, Total PRs: 439, Total Issues: 96, Contributed to (last year): 15</desc>
+        <desc id="descId">Total Stars Earned: 11, Total Commits  (last year) : 740, Total PRs: 445, Total Issues: 96, Contributed to (last year): 15</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 90.77399010101034;
+        stroke-dashoffset: 90.3921863567634;
       }
     }
   
@@ -177,7 +177,7 @@
         x="219.01"
         y="12.5"
         data-testid="commits"
-      >716</text>
+      >740</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -192,7 +192,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs"
-      >439</text>
+      >445</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
